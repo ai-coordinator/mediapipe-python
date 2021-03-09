@@ -6,6 +6,6 @@ YouTube:https://youtu.be/itG2aLR0qOU
 ## facemesh  
 YouTube  
 
-##Environment  
+## Environment  
 pip install opencv-python  
 pip install mediapipe
