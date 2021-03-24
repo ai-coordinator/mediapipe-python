@@ -8,7 +8,7 @@ YouTube:https://youtu.be/MbSGLWelu0g
 ## holistic  
 YouTube:https://youtu.be/Zs_rQl0te00  
 ## objectron
-YouTube:  
+YouTube:https://youtu.be/YgwTU2s_Rg8  
 
 ## Environment  
 pip install opencv-python  
